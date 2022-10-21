@@ -1,4 +1,5 @@
 # Bhavesh_Kumar_B_21011101031_AI
+Black Box Neuron:
 Breast Cancer wisconsin(diagnostic) dataset
 
 
@@ -28,3 +29,8 @@ Data Set Characteristics:
     - class:
             - WDBC-Malignant
             - WDBC-Benign
+
+
+White Box Neuron:
+
+This dataset is about phone price range classification of 9 features and 2000 data points.
